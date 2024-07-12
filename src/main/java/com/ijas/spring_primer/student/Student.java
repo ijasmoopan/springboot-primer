@@ -1,4 +1,4 @@
-package com.ijas.spring_primer.Student;
+package com.ijas.spring_primer.student;
 
 import jakarta.persistence.*;
 
